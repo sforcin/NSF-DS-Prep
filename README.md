@@ -16,4 +16,9 @@ In my experience with Data Structures and Algorithms, Discrete Mathematics, and 
 - I also like anything related to doing math by hand. I truly enjoyed everything related to calculations in CS 171. I enjoyed tree pruning, Neural Networks calculations, and everything that was not an algorithm! 
 
 
+***Practice Problems***
+In each file, I will be performing practice problems in Python, of different difficulty levels, in order to get more natural with the language. 
+I plan on starting with the basics, outputs, functions, then move on to more difficult tasks!
+
+
 
