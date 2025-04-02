@@ -13,5 +13,7 @@ In my experience with Data Structures and Algorithms, Discrete Mathematics, and 
 - Linear Algebra Topics such as Matrices
 - Computer Vision [although I don't have much experience]
 - Data Modeling [At a smaller scale, I always liked finding patterns in things and creating simple models for it. I enjoyed creating KNN, Neural Nets and Classification Algorithms in CS 171]
+- I also like anything related to doing math by hand. I truly enjoyed everything related to calculations in CS 171. I enjoyed tree pruning, Neural Networks calculations, and everything that was not an algorithm! 
+
 
 
